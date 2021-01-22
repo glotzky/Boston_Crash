@@ -6,7 +6,7 @@ import plotly.express as px
 
 DATE_TIME = "date/time"
 DATA_URL = (
-    "../Boston_Crash/boston_crash.csv"
+    "boston_crash.csv"
 )
 st.title("Motor Vehicle Collisions in Boston Metro Area")
 st.markdown("This application is a Streamlit dashboard that can be used "
